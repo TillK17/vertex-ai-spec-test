@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * A vertex represents a 2D point in the image. NOTE: the normalized vertex coordinates are relative to the original image and range from 0 to 1.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaVertex {
   public static final String SERIALIZED_NAME_X = "x";
   @SerializedName(SERIALIZED_NAME_X)

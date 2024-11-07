@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * Represents the spec of a group of resources of the same type, for example machine type, disk, and accelerators, in a PersistentResource.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ResourcePool {
   public static final String SERIALIZED_NAME_REPLICA_COUNT = "replicaCount";
   @SerializedName(SERIALIZED_NAME_REPLICA_COUNT)

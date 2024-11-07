@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Treats the column as numerical array and performs following transformation functions. * All transformations for Numerical types applied to the average of the all elements. * The average of empty arrays is treated as zero.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaTrainingjobDefinitionAutoMlTablesInputsTransformationNumericArrayTransformation {
   public static final String SERIALIZED_NAME_INVALID_VALUES_ALLOWED = "invalidValuesAllowed";
   @SerializedName(SERIALIZED_NAME_INVALID_VALUES_ALLOWED)

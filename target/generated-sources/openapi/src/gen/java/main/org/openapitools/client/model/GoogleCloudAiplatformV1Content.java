@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * The base structured datatype containing multi-part content of a message. A &#x60;Content&#x60; includes a &#x60;role&#x60; field designating the producer of the &#x60;Content&#x60; and a &#x60;parts&#x60; field containing multi-part data that contains the content of the message turn.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Content {
   public static final String SERIALIZED_NAME_ROLE = "role";
   @SerializedName(SERIALIZED_NAME_ROLE)

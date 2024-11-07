@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * The fields &#x60;xMin&#x60;, &#x60;xMax&#x60;, &#x60;yMin&#x60;, and &#x60;yMax&#x60; refer to a bounding box, i.e. the rectangle over the video frame pinpointing the found AnnotationSpec. The coordinates are relative to the frame size, and the point 0,0 is in the top left of the frame.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaPredictPredictionVideoObjectTrackingPredictionResultFrame {
   public static final String SERIALIZED_NAME_TIME_OFFSET = "timeOffset";
   @SerializedName(SERIALIZED_NAME_TIME_OFFSET)

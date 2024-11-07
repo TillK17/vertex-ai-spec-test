@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * Vertex AI Feature Store provides a centralized repository for organizing, storing, and serving ML features. The Featurestore is a top-level container for your features and their values.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Featurestore {
   public static final String SERIALIZED_NAME_ONLINE_STORAGE_TTL_DAYS = "onlineStorageTtlDays";
   @SerializedName(SERIALIZED_NAME_ONLINE_STORAGE_TTL_DAYS)

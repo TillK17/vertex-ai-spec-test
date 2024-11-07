@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * Config of migrating one resource from automl.googleapis.com, datalabeling.googleapis.com and ml.googleapis.com to Vertex AI.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1MigrateResourceRequest {
   public static final String SERIALIZED_NAME_MIGRATE_AUTOML_DATASET_CONFIG = "migrateAutomlDatasetConfig";
   @SerializedName(SERIALIZED_NAME_MIGRATE_AUTOML_DATASET_CONFIG)

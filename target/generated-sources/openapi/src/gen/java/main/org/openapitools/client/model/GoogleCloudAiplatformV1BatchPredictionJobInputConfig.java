@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * Configures the input to BatchPredictionJob. See Model.supported_input_storage_formats for Model&#39;s supported input formats, and how instances should be expressed via any of them.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1BatchPredictionJobInputConfig {
   public static final String SERIALIZED_NAME_INSTANCES_FORMAT = "instancesFormat";
   @SerializedName(SERIALIZED_NAME_INSTANCES_FORMAT)

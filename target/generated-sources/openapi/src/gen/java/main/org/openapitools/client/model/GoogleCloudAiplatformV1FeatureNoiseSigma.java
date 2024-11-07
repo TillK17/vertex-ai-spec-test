@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * Noise sigma by features. Noise sigma represents the standard deviation of the gaussian kernel that will be used to add noise to interpolated inputs prior to computing gradients.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1FeatureNoiseSigma {
   public static final String SERIALIZED_NAME_NOISE_SIGMA = "noiseSigma";
   @SerializedName(SERIALIZED_NAME_NOISE_SIGMA)

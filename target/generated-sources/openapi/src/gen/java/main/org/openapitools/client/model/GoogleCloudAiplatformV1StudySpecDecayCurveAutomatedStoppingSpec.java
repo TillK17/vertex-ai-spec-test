@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * The decay curve automated stopping rule builds a Gaussian Process Regressor to predict the final objective value of a Trial based on the already completed Trials and the intermediate measurements of the current Trial. Early stopping is requested for the current Trial if there is very low probability to exceed the optimal value found so far.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1StudySpecDecayCurveAutomatedStoppingSpec {
   public static final String SERIALIZED_NAME_USE_ELAPSED_DURATION = "useElapsedDuration";
   @SerializedName(SERIALIZED_NAME_USE_ELAPSED_DURATION)

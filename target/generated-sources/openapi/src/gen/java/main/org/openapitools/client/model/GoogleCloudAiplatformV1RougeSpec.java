@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Spec for rouge score metric - calculates the recall of n-grams in prediction as compared to reference - returns a score ranging between 0 and 1.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1RougeSpec {
   public static final String SERIALIZED_NAME_ROUGE_TYPE = "rougeType";
   @SerializedName(SERIALIZED_NAME_ROUGE_TYPE)

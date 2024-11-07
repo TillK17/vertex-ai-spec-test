@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * An integer bounding box of original pixels of the image for the detected labels.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class CloudAiLargeModelsVisionRaiInfoDetectedLabelsBoundingBox {
   public static final String SERIALIZED_NAME_X1 = "x1";
   @SerializedName(SERIALIZED_NAME_X1)

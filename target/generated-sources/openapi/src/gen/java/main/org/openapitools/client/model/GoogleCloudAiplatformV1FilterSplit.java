@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Assigns input data to training, validation, and test sets based on the given filters, data pieces not matched by any filter are ignored. Currently only supported for Datasets containing DataItems. If any of the filters in this message are to match nothing, then they can be set as &#39;-&#39; (the minus sign). Supported only for unstructured Datasets. 
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1FilterSplit {
   public static final String SERIALIZED_NAME_TRAINING_FILTER = "trainingFilter";
   @SerializedName(SERIALIZED_NAME_TRAINING_FILTER)

@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Assigns the input data to training, validation, and test sets as per the given fractions. Any of &#x60;training_fraction&#x60;, &#x60;validation_fraction&#x60; and &#x60;test_fraction&#x60; may optionally be provided, they must sum to up to 1. If the provided ones sum to less than 1, the remainder is assigned to sets as decided by Vertex AI. If none of the fractions are set, by default roughly 80% of data is used for training, 10% for validation, and 10% for test.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1FractionSplit {
   public static final String SERIALIZED_NAME_TRAINING_FRACTION = "trainingFraction";
   @SerializedName(SERIALIZED_NAME_TRAINING_FRACTION)

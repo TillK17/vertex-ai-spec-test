@@ -71,7 +71,7 @@ import org.openapitools.client.JSON;
 /**
  * Response message for EvaluationService.EvaluateInstances.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1EvaluateInstancesResponse {
   public static final String SERIALIZED_NAME_TOOL_PARAMETER_KEY_MATCH_RESULTS = "toolParameterKeyMatchResults";
   @SerializedName(SERIALIZED_NAME_TOOL_PARAMETER_KEY_MATCH_RESULTS)

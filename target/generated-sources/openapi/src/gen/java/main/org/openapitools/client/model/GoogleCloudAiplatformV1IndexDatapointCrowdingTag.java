@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Crowding tag is a constraint on a neighbor list produced by nearest neighbor search requiring that no more than some value k&#39; of the k neighbors returned have the same value of crowding_attribute.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1IndexDatapointCrowdingTag {
   public static final String SERIALIZED_NAME_CROWDING_ATTRIBUTE = "crowdingAttribute";
   @SerializedName(SERIALIZED_NAME_CROWDING_ATTRIBUTE)

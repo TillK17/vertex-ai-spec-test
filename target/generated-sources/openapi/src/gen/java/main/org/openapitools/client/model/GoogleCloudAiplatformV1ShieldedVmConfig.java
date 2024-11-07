@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * A set of Shielded Instance options. See [Images using supported Shielded VM features](https://cloud.google.com/compute/docs/instances/modifying-shielded-vm).
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ShieldedVmConfig {
   public static final String SERIALIZED_NAME_ENABLE_SECURE_BOOT = "enableSecureBoot";
   @SerializedName(SERIALIZED_NAME_ENABLE_SECURE_BOOT)

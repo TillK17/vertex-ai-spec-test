@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * An explanation method that redistributes Integrated Gradients attributions to segmented regions, taking advantage of the model&#39;s fully differentiable structure. Refer to this paper for more details: https://arxiv.org/abs/1906.02825 Supported only by image Models.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1XraiAttribution {
   public static final String SERIALIZED_NAME_SMOOTH_GRAD_CONFIG = "smoothGradConfig";
   @SerializedName(SERIALIZED_NAME_SMOOTH_GRAD_CONFIG)

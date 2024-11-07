@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Contains information about the source of the models generated from Model Garden.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ModelGardenSource {
   public static final String SERIALIZED_NAME_PUBLIC_MODEL_NAME = "publicModelName";
   @SerializedName(SERIALIZED_NAME_PUBLIC_MODEL_NAME)

@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Domain details of the input feature value. Provides numeric information about the feature, such as its range (min, max). If the feature has been pre-processed, for example with z-scoring, then it provides information about how to recover the original feature. For example, if the input feature is an image and it has been pre-processed to obtain 0-mean and stddev &#x3D; 1 values, then original_mean, and original_stddev refer to the mean and stddev of the original feature (e.g. image tensor) from which input feature (with mean &#x3D; 0 and stddev &#x3D; 1) was obtained.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ExplanationMetadataInputMetadataFeatureValueDomain {
   public static final String SERIALIZED_NAME_MIN_VALUE = "minValue";
   @SerializedName(SERIALIZED_NAME_MIN_VALUE)

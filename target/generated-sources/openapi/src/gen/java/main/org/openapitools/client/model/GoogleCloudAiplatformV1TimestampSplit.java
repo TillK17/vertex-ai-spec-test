@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Assigns input data to training, validation, and test sets based on a provided timestamps. The youngest data pieces are assigned to training set, next to validation set, and the oldest to the test set. Supported only for tabular Datasets.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1TimestampSplit {
   public static final String SERIALIZED_NAME_TRAINING_FRACTION = "trainingFraction";
   @SerializedName(SERIALIZED_NAME_TRAINING_FRACTION)

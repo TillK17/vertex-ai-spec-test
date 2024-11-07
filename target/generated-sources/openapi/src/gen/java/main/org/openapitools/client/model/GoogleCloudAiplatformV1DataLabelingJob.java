@@ -57,7 +57,7 @@ import org.openapitools.client.JSON;
 /**
  * DataLabelingJob is used to trigger a human labeling job on unlabeled data from the following Dataset:
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1DataLabelingJob {
   public static final String SERIALIZED_NAME_DATASETS = "datasets";
   @SerializedName(SERIALIZED_NAME_DATASETS)

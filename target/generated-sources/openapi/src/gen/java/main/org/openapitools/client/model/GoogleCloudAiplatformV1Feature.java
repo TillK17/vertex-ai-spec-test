@@ -53,7 +53,7 @@ import org.openapitools.client.JSON;
 /**
  * Feature Metadata information. For example, color is a feature that describes an apple.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Feature {
   public static final String SERIALIZED_NAME_VERSION_COLUMN_NAME = "versionColumnName";
   @SerializedName(SERIALIZED_NAME_VERSION_COLUMN_NAME)

@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * The config for Training &amp; Prediction data skew detection. It specifies the training dataset sources and the skew detection parameters.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ModelMonitoringObjectiveConfigTrainingPredictionSkewDetectionConfig {
   public static final String SERIALIZED_NAME_ATTRIBUTION_SCORE_SKEW_THRESHOLDS = "attributionScoreSkewThresholds";
   @SerializedName(SERIALIZED_NAME_ATTRIBUTION_SCORE_SKEW_THRESHOLDS)

@@ -56,7 +56,7 @@ import org.openapitools.client.JSON;
 /**
  * A representation of a collection of database items organized in a way that allows for approximate nearest neighbor (a.k.a ANN) algorithms search.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Index {
   public static final String SERIALIZED_NAME_METADATA_SCHEMA_URI = "metadataSchemaUri";
   @SerializedName(SERIALIZED_NAME_METADATA_SCHEMA_URI)

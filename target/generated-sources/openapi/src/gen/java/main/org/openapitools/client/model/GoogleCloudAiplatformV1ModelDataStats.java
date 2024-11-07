@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Stats of data used for train or evaluate the Model.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ModelDataStats {
   public static final String SERIALIZED_NAME_VALIDATION_DATA_ITEMS_COUNT = "validationDataItemsCount";
   @SerializedName(SERIALIZED_NAME_VALIDATION_DATA_ITEMS_COUNT)

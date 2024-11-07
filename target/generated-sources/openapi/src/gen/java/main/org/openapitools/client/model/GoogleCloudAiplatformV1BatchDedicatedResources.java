@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
 /**
  * A description of resources that are used for performing batch operations, are dedicated to a Model, and need manual configuration.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1BatchDedicatedResources {
   public static final String SERIALIZED_NAME_STARTING_REPLICA_COUNT = "startingReplicaCount";
   @SerializedName(SERIALIZED_NAME_STARTING_REPLICA_COUNT)

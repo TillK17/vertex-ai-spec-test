@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * Explanation of a prediction (provided in PredictResponse.predictions) produced by the Model on a given instance.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Explanation {
   public static final String SERIALIZED_NAME_NEIGHBORS = "neighbors";
   @SerializedName(SERIALIZED_NAME_NEIGHBORS)

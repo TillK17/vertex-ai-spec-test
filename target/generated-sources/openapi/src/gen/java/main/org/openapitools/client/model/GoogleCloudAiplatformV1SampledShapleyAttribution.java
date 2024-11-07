@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * An attribution method that approximates Shapley values for features that contribute to the label being predicted. A sampling strategy is used to approximate the value rather than considering all subsets of features.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SampledShapleyAttribution {
   public static final String SERIALIZED_NAME_PATH_COUNT = "pathCount";
   @SerializedName(SERIALIZED_NAME_PATH_COUNT)

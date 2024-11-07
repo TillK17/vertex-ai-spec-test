@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * Tensorboard is a physical database that stores users&#39; training metrics. A default Tensorboard is provided in each region of a Google Cloud project. If needed users can also create extra Tensorboards in their projects.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Tensorboard {
   public static final String SERIALIZED_NAME_BLOB_STORAGE_PATH_PREFIX = "blobStoragePathPrefix";
   @SerializedName(SERIALIZED_NAME_BLOB_STORAGE_PATH_PREFIX)

@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * SpecialistPool represents customers&#39; own workforce to work on their data labeling jobs. It includes a group of specialist managers and workers. Managers are responsible for managing the workers in this pool as well as customers&#39; data labeling jobs associated with this pool. Customers create specialist pool as well as start data labeling jobs on Cloud, managers and workers handle the jobs using CrowdCompute console.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SpecialistPool {
   public static final String SERIALIZED_NAME_SPECIALIST_MANAGER_EMAILS = "specialistManagerEmails";
   @SerializedName(SERIALIZED_NAME_SPECIALIST_MANAGER_EMAILS)

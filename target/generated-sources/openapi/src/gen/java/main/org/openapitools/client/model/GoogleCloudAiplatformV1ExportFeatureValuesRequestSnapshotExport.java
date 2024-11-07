@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Describes exporting the latest Feature values of all entities of the EntityType between [start_time, snapshot_time].
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ExportFeatureValuesRequestSnapshotExport {
   public static final String SERIALIZED_NAME_SNAPSHOT_TIME = "snapshotTime";
   @SerializedName(SERIALIZED_NAME_SNAPSHOT_TIME)

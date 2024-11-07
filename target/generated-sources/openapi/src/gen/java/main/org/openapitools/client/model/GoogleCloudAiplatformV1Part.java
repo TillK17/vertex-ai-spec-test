@@ -53,7 +53,7 @@ import org.openapitools.client.JSON;
 /**
  * A datatype containing media that is part of a multi-part &#x60;Content&#x60; message. A &#x60;Part&#x60; consists of data which has an associated datatype. A &#x60;Part&#x60; can only contain one of the accepted types in &#x60;Part.data&#x60;. A &#x60;Part&#x60; must have a fixed IANA MIME type identifying the type and subtype of the media if &#x60;inline_data&#x60; or &#x60;file_data&#x60; field is filled with raw bytes.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Part {
   public static final String SERIALIZED_NAME_FILE_DATA = "fileData";
   @SerializedName(SERIALIZED_NAME_FILE_DATA)

@@ -53,7 +53,7 @@ import org.openapitools.client.JSON;
 /**
  * Metadata of the input of a feature. Fields other than InputMetadata.input_baselines are applicable only for Models that are using Vertex AI-provided images for Tensorflow.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ExplanationMetadataInputMetadata {
   public static final String SERIALIZED_NAME_ENCODED_TENSOR_NAME = "encodedTensorName";
   @SerializedName(SERIALIZED_NAME_ENCODED_TENSOR_NAME)

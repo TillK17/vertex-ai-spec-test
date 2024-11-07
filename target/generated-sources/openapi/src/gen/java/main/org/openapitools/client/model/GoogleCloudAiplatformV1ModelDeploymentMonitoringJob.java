@@ -62,7 +62,7 @@ import org.openapitools.client.JSON;
 /**
  * Represents a job that runs periodically to monitor the deployed models in an endpoint. It will analyze the logged training &amp; prediction data to detect any abnormal behaviors.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1ModelDeploymentMonitoringJob {
   public static final String SERIALIZED_NAME_LOG_TTL = "logTtl";
   @SerializedName(SERIALIZED_NAME_LOG_TTL)

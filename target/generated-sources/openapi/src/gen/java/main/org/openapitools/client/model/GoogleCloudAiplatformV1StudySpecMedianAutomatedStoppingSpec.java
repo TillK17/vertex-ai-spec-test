@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * The median automated stopping rule stops a pending Trial if the Trial&#39;s best objective_value is strictly below the median &#39;performance&#39; of all completed Trials reported up to the Trial&#39;s last measurement. Currently, &#39;performance&#39; refers to the running average of the objective values reported by the Trial in each measurement.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1StudySpecMedianAutomatedStoppingSpec {
   public static final String SERIALIZED_NAME_USE_ELAPSED_DURATION = "useElapsedDuration";
   @SerializedName(SERIALIZED_NAME_USE_ELAPSED_DURATION)

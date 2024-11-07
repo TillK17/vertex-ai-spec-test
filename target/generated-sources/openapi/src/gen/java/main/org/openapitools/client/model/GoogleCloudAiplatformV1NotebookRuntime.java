@@ -55,7 +55,7 @@ import org.openapitools.client.JSON;
 /**
  * A runtime is a virtual machine allocated to a particular user for a particular Notebook file on temporary basis with lifetime limited to 24 hours.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1NotebookRuntime {
   public static final String SERIALIZED_NAME_RUNTIME_USER = "runtimeUser";
   @SerializedName(SERIALIZED_NAME_RUNTIME_USER)

@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Treats the column as text array and performs following transformation functions. * Concatenate all text values in the array into a single text value using a space (\&quot; \&quot;) as a delimiter, and then treat the result as a single text value. Apply the transformations for Text columns. * Empty arrays treated as an empty text.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaTrainingjobDefinitionAutoMlTablesInputsTransformationTextArrayTransformation {
   public static final String SERIALIZED_NAME_COLUMN_NAME = "columnName";
   @SerializedName(SERIALIZED_NAME_COLUMN_NAME)

@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
 /**
  * The configuration (stopping conditions) for automated stopping of a Study. Conditions include trial budgets, time budgets, and convergence detection.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1StudySpecStudyStoppingConfig {
   public static final String SERIALIZED_NAME_MAX_NUM_TRIALS = "maxNumTrials";
   @SerializedName(SERIALIZED_NAME_MAX_NUM_TRIALS)

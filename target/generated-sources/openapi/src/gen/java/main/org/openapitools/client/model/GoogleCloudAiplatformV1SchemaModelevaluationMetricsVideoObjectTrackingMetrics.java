@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * Model evaluation metrics for video object tracking problems. Evaluates prediction quality of both labeled bounding boxes and labeled tracks (i.e. series of bounding boxes sharing same label and instance ID).
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaModelevaluationMetricsVideoObjectTrackingMetrics {
   public static final String SERIALIZED_NAME_TRACK_MEAN_MISMATCH_RATE = "trackMeanMismatchRate";
   @SerializedName(SERIALIZED_NAME_TRACK_MEAN_MISMATCH_RATE)

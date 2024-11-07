@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Model metadata specific to Seq2Seq Plus Forecasting.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaTrainingjobDefinitionSeq2SeqPlusForecastingMetadata {
   public static final String SERIALIZED_NAME_EVALUATED_DATA_ITEMS_BIGQUERY_URI = "evaluatedDataItemsBigqueryUri";
   @SerializedName(SERIALIZED_NAME_EVALUATED_DATA_ITEMS_BIGQUERY_URI)

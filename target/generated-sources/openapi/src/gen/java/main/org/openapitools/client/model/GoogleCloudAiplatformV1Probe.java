@@ -49,7 +49,7 @@ import org.openapitools.client.JSON;
 /**
  * Probe describes a health check to be performed against a container to determine whether it is alive or ready to receive traffic.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1Probe {
   public static final String SERIALIZED_NAME_EXEC = "exec";
   @SerializedName(SERIALIZED_NAME_EXEC)

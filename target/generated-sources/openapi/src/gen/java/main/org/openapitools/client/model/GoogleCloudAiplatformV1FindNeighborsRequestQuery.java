@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * A query to find a number of the nearest neighbors (most similar vectors) of a vector.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1FindNeighborsRequestQuery {
   public static final String SERIALIZED_NAME_DATAPOINT = "datapoint";
   @SerializedName(SERIALIZED_NAME_DATAPOINT)

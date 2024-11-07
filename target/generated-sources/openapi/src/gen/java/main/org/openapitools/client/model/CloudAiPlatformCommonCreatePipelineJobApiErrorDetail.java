@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Create API error message for Vertex Pipeline. Next Id: 3.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class CloudAiPlatformCommonCreatePipelineJobApiErrorDetail {
   public static final String SERIALIZED_NAME_PUBLIC_MESSAGE = "publicMessage";
   @SerializedName(SERIALIZED_NAME_PUBLIC_MESSAGE)

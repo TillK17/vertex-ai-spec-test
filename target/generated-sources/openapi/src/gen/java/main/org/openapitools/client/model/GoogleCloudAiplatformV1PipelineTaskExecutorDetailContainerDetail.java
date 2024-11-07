@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * The detail of a container execution. It contains the job names of the lifecycle of a container execution.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1PipelineTaskExecutorDetailContainerDetail {
   public static final String SERIALIZED_NAME_FAILED_PRE_CACHING_CHECK_JOBS = "failedPreCachingCheckJobs";
   @SerializedName(SERIALIZED_NAME_FAILED_PRE_CACHING_CHECK_JOBS)

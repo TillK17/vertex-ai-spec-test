@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * PrivateEndpoints proto is used to provide paths for users to send requests privately. To send request via private service access, use predict_http_uri, explain_http_uri or health_http_uri. To send request via private service connect, use service_attachment.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1PrivateEndpoints {
   public static final String SERIALIZED_NAME_SERVICE_ATTACHMENT = "serviceAttachment";
   @SerializedName(SERIALIZED_NAME_SERVICE_ATTACHMENT)

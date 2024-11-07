@@ -51,7 +51,7 @@ import org.openapitools.client.JSON;
 /**
  * A wrapper class which contains the tunable parameters in an AutoML Image training job.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaTrainingjobDefinitionAutomlImageTrainingTunableParameter {
   public static final String SERIALIZED_NAME_TRAINER_CONFIG = "trainerConfig";
   @SerializedName(SERIALIZED_NAME_TRAINER_CONFIG)

@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Represents one Model in automl.googleapis.com.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1MigratableResourceAutomlModel {
   public static final String SERIALIZED_NAME_MODEL_DISPLAY_NAME = "modelDisplayName";
   @SerializedName(SERIALIZED_NAME_MODEL_DISPLAY_NAME)

@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * The tables Dataset&#39;s data source. The Dataset doesn&#39;t store the data directly, but only pointer(s) to its data.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1SchemaTablesDatasetMetadataInputConfig {
   public static final String SERIALIZED_NAME_GCS_SOURCE = "gcsSource";
   @SerializedName(SERIALIZED_NAME_GCS_SOURCE)

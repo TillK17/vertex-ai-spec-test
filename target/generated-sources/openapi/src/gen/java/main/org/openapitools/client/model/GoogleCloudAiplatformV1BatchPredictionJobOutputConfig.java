@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * Configures the output of BatchPredictionJob. See Model.supported_output_storage_formats for supported output formats, and how predictions are expressed via any of them.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1BatchPredictionJobOutputConfig {
   public static final String SERIALIZED_NAME_BIGQUERY_DESTINATION = "bigqueryDestination";
   @SerializedName(SERIALIZED_NAME_BIGQUERY_DESTINATION)

@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * TensorboardRun maps to a specific execution of a training job with a given set of hyperparameter values, model definition, dataset, etc
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1TensorboardRun {
   public static final String SERIALIZED_NAME_CREATE_TIME = "createTime";
   @SerializedName(SERIALIZED_NAME_CREATE_TIME)

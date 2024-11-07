@@ -50,7 +50,7 @@ import org.openapitools.client.JSON;
 /**
  * String filter is used to search a subset of the entities by using boolean rules on string columns. For example: if a query specifies string filter with &#39;name &#x3D; color, allow_tokens &#x3D; {red, blue}, deny_tokens &#x3D; {purple}&#39;,&#39; then that query will match entities that are red or blue, but if those points are also purple, then they will be excluded even if they are red/blue. Only string filter is supported for now, numeric filter will be supported in the near future.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1NearestNeighborQueryStringFilter {
   public static final String SERIALIZED_NAME_NAME = "name";
   @SerializedName(SERIALIZED_NAME_NAME)

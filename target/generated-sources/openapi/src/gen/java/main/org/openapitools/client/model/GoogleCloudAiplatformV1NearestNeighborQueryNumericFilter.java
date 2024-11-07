@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Numeric filter is used to search a subset of the entities by using boolean rules on numeric columns. For example: Database Point 0: {name: \&quot;a\&quot; value_int: 42} {name: \&quot;b\&quot; value_float: 1.0} Database Point 1: {name: \&quot;a\&quot; value_int: 10} {name: \&quot;b\&quot; value_float: 2.0} Database Point 2: {name: \&quot;a\&quot; value_int: -1} {name: \&quot;b\&quot; value_float: 3.0} Query: {name: \&quot;a\&quot; value_int: 12 operator: LESS} // Matches Point 1, 2 {name: \&quot;b\&quot; value_float: 2.0 operator: EQUAL} // Matches Point 1
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1NearestNeighborQueryNumericFilter {
   public static final String SERIALIZED_NAME_VALUE_INT = "valueInt";
   @SerializedName(SERIALIZED_NAME_VALUE_INT)

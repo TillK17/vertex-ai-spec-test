@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Assigns input data to the training, validation, and test sets so that the distribution of values found in the categorical column (as specified by the &#x60;key&#x60; field) is mirrored within each split. The fraction values determine the relative sizes of the splits. For example, if the specified column has three values, with 50% of the rows having value \&quot;A\&quot;, 25% value \&quot;B\&quot;, and 25% value \&quot;C\&quot;, and the split fractions are specified as 80/10/10, then the training set will constitute 80% of the training data, with about 50% of the training set rows having the value \&quot;A\&quot; for the specified column, about 25% having the value \&quot;B\&quot;, and about 25% having the value \&quot;C\&quot;. Only the top 500 occurring values are used; any values not in the top 500 values are randomly assigned to a split. If less than three rows contain a specific value, those rows are randomly assigned. Supported only for tabular Datasets.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1StratifiedSplit {
   public static final String SERIALIZED_NAME_TEST_FRACTION = "testFraction";
   @SerializedName(SERIALIZED_NAME_TEST_FRACTION)

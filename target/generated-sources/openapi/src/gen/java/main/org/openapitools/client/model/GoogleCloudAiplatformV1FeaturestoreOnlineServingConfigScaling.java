@@ -48,7 +48,7 @@ import org.openapitools.client.JSON;
 /**
  * Online serving scaling configuration. If min_node_count and max_node_count are set to the same value, the cluster will be configured with the fixed number of node (no auto-scaling).
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1FeaturestoreOnlineServingConfigScaling {
   public static final String SERIALIZED_NAME_CPU_UTILIZATION_TARGET = "cpuUtilizationTarget";
   @SerializedName(SERIALIZED_NAME_CPU_UTILIZATION_TARGET)

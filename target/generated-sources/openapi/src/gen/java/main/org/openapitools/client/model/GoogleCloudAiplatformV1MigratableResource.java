@@ -52,7 +52,7 @@ import org.openapitools.client.JSON;
 /**
  * Represents one resource that exists in automl.googleapis.com, datalabeling.googleapis.com or ml.googleapis.com.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T09:54:52.538010900+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-07T10:15:10.793031100+01:00[Europe/Berlin]", comments = "Generator version: 7.8.0")
 public class GoogleCloudAiplatformV1MigratableResource {
   public static final String SERIALIZED_NAME_DATA_LABELING_DATASET = "dataLabelingDataset";
   @SerializedName(SERIALIZED_NAME_DATA_LABELING_DATASET)
